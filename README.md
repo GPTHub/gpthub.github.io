@@ -40,7 +40,14 @@
 
 ### 2022
 
+- [ ] [Chowdhery, Aakanksha, Sharan Narang, Jacob Devlin, Maarten Bosma, Gaurav Mishra, Adam Roberts, Paul Barham et al.\
+"Palm: Scaling language modeling with pathways."arXiv preprint arXiv:2204.02311 (2022).](https://arxiv.org/abs/2204.02311)
+
+- [ ] [
+
 ### 2021
+
+- [ ] [
 
 ### 2020
 
@@ -49,4 +56,10 @@ Learning to summarize with human feedback. Advances in Neural Information Proces
 
 ### 2019
 
-### Early papers (Before 2019
+- [ ] [
+- [ ] [
+
+### Early papers (Before 2019)
+
+- [ ] [
+- [ ] [
