@@ -44,6 +44,9 @@
 
 ### 2020
 
+- [ ] [Stiennon, N., Ouyang, L., Wu, J., Ziegler, D., Lowe, R., Voss, C., ... & Christiano, P. F. (2020). \
+Learning to summarize with human feedback. Advances in Neural Information Processing Systems, 33, 3008-3021.](https://proceedings.neurips.cc/paper/2020/hash/1f89885d556929e98d3ef9b86448f951-Abstract.html)
+
 ### 2019
 
 ### Early papers (Before 2019
