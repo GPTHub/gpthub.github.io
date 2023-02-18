@@ -19,7 +19,7 @@
 
 ## Tutorials & Talks & Blogs
 
-- [ ]
+- [ ] [AIGC的最大商业机会是语言（文本），而不是图像](https://mp.weixin.qq.com/s/yJ-dZVIfpuoyofa60kY27A)
 - [ ] [张俊林：由ChatGPT反思大语言模型（LLM）的技术精要.](https://mp.weixin.qq.com/s/eMrv15yOO0oYQ-o-wiuSyw)
 
 
@@ -27,7 +27,7 @@
 
 - [ ] [OPEN-ASSISTANT](https://github.com/LAION-AI/Open-Assistant)
 - [ ] [PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)
-- [ ] [ChatRWKV] (https://github.com/BlinkDL/ChatRWKV)
+- [ ] [ChatRWKV](https://github.com/BlinkDL/ChatRWKV)
 
 
 
@@ -36,9 +36,14 @@
 
 ## Papers (Reverse Chronological Order)
 
-
+### 2023
 
 ### 2022
 
+### 2021
 
-### Early papers (Before 2019)
+### 2020
+
+### 2019
+
+### Early papers (Before 2019
