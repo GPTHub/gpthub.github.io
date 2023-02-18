@@ -43,11 +43,20 @@
 - [ ] [Chowdhery, Aakanksha, Sharan Narang, Jacob Devlin, Maarten Bosma, Gaurav Mishra, Adam Roberts, Paul Barham et al.\
 "Palm: Scaling language modeling with pathways."arXiv preprint arXiv:2204.02311 (2022).](https://arxiv.org/abs/2204.02311)
 
-- [ ] [
+- [ ] [Sun, Yutao, Li Dong, Barun Patra, Shuming Ma, Shaohan Huang, Alon Benhaim, Vishrav Chaudhary, Xia Song, and Furu Wei. \
+"A Length-Extrapolatable Transformer." arXiv preprint arXiv:2212.10554 (2022).](https://arxiv.org/abs/2212.10554)
+
+- [ ] [Glaese, Amelia, Nat McAleese, Maja Trębacz, John Aslanides, Vlad Firoiu, Timo Ewalds, Maribeth Rauh et al.\ "Improving alignment of dialogue agents via targeted human judgements." arXiv preprint arXiv:2209.14375 (2022).](https://arxiv.org/abs/2209.14375)
+
+- [ ] [Wei, Jason, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Ed Chi, Quoc Le, and Denny Zhou. \
+ "Chain of thought prompting elicits reasoning in large language models." arXiv preprint arXiv:2201.11903 (2022).](https://arxiv.org/abs/2201.11903)
 
 ### 2021
 
-- [ ] [
+- [ ] [Hu, Edward J., Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, and Weizhu Chen. \
+"Lora: Low-rank adaptation of large language models." arXiv preprint arXiv:2106.09685 (2021).](https://arxiv.org/abs/2106.09685)
+
+
 
 ### 2020
 
