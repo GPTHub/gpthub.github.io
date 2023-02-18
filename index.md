@@ -20,11 +20,15 @@
 ## Tutorials & Talks & Blogs
 
 - [ ]
+- [ ] [张俊林：由ChatGPT反思大语言模型（LLM）的技术精要.](https://mp.weixin.qq.com/s/eMrv15yOO0oYQ-o-wiuSyw)
 
 
 ## Open Source Libraries
 
-- [ ]
+- [ ] [OPEN-ASSISTANT](https://github.com/LAION-AI/Open-Assistant)
+- [ ] [PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)
+- [ ] [ChatRWKV] (https://github.com/BlinkDL/ChatRWKV)
+
 
 
 ## Applications
