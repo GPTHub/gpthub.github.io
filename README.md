@@ -1,6 +1,6 @@
 # Everything about GPT/AIGC (GPTHub)
-<img src="files/gpthub.png" alt="GPT" style="float:left;width:390px;"/>
-> Everything about GPT-like models
+<img src="files/gpthub.png" alt="GPT" style="float:left;width:400px;"/>
+> Contact: yatao.bian@gmail.com    
 
 
 ## Table of Contents
@@ -65,10 +65,10 @@ Learning to summarize with human feedback. Advances in Neural Information Proces
 
 ### 2019
 
-- [ ] [
-- [ ] [
+- [ ]
+- [ ]
 
 ### Early papers (Before 2019)
 
-- [ ] [
-- [ ] [
+- [ ]
+- [ ]
