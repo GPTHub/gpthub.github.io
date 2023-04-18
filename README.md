@@ -1,4 +1,4 @@
-# Everything about GPT-like models (GPTHub)
+# Everything about GPT/AIGC (GPTHub)
 <img src="files/gpthub.png" alt="GPT" style="float:left;width:390px;"/>
 > Everything about GPT-like models
 
